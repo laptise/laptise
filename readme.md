@@ -27,4 +27,4 @@ My current active project is...
 
 **[FindStudio](https://github.com/laptise/find-studio)**
 
-- `Next.js` `TypeORM` `TypeScript` `MySql`
+- `Next.js` `TypeORM` `TypeScript` `MySql` `Docker`
