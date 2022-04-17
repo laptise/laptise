@@ -1,4 +1,4 @@
-My current active project is...
+現在進行中の個人プロジェクト一覧
 
 
 ## April 2022
