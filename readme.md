@@ -7,13 +7,15 @@ My current active project is...
 
 海外中古取引仲介サイト
 
-- `Next.js` `Nest.js` `Graphql` `MySql` `Docker` `TypeORM` `TypeScript`
+- `Next.js` `Nest.js` `Graphql` `MySql` `Docker` `TypeORM` `TypeScript` `Apolli client`
 
 ## February 2022
 
 ### [Airplane Web](https://github.com/laptise/airplane-web)
 
 アーテイストとファンをつなぐサブスク型チャットサイト
+
+管理系・課金をするときに使うサイト
 
 - `Next.js` `Firebase` `TypeScript`
 
