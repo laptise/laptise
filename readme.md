@@ -7,7 +7,7 @@ My current active project is...
 
 海外中古取引仲介サイト
 
-- `Next.js` `Nest.js` `Graphql` `MySql` `Docker` `TypeORM` `TypeScript` `Apolli client`
+- `Next.js` `Nest.js` `Graphql` `MySql` `Docker` `TypeORM` `TypeScript` `Apollo Client`
 
 ## February 2022
 
