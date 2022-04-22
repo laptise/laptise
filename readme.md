@@ -7,7 +7,7 @@
 
 海外中古取引仲介サイト
 
-- `Next.js` `Nest.js` `Graphql` `MySql` `Docker` `TypeORM` `TypeScript` `Apollo Client`
+- `Next.js` `Nest.js` `Graphql` `MySql` `Docker` `TypeORM` `TypeScript` `Apollo Client` `Nginx` `Material UI` `Axios`
 
 ## February 2022
 
