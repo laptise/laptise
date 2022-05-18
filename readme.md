@@ -1,9 +1,14 @@
 現在進行中の個人プロジェクト一覧
 
+## May 2022
 
-## April 2022
+### [Chained Style Props - Csp](https://github.com/laptise/chained-style-props) 🏃
 
-### [Kaichoku Connect](https://github.com/laptise/kaichoku-connect)
+`React.js`での`Inline style`定義を楽にしたいライブラリ
+
+## April 2022 
+
+### [Kaichoku Connect](https://github.com/laptise/kaichoku-connect) 🏃
 
 海外中古取引仲介サイト
 
@@ -11,7 +16,7 @@
 
 ## February 2022
 
-### [Airplane Web](https://github.com/laptise/airplane-web)
+### [Airplane Web](https://github.com/laptise/airplane-web) 
 
 アーテイストとファンをつなぐサブスク型チャットサイト
 
