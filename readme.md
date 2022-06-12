@@ -4,17 +4,18 @@
 
 🚶 Walking (sometimes)
 
+🌏 Serving in public
 
 ## May 2022
 
-### [Chained Style Props - Csp](https://github.com/laptise/chained-style-props) 🚶
+### [Chained Style Props - Csp](https://github.com/laptise/chained-style-props) 🌏🚶
 
 `React.js`での`Inline style`定義を楽にしたいライブラリ 
 [Doc サイトも随時](https://github.com/laptise/csp-doc) 
 
 ## April 2022 
 
-### [Kaichoku Connect](https://github.com/laptise/kaichoku-connect) 🏃🏃🏃
+### [Kaichoku Connect](https://github.com/laptise/kaichoku-connect) 🌏🏃🏃🏃
 
 海外中古取引仲介サイト
 
@@ -22,7 +23,7 @@
 
 ## February 2022
 
-### [Airplane Web](https://github.com/laptise/airplane-web) 
+### [Airplane Web](https://github.com/laptise/airplane-web) 🌏
 
 アーテイストとファンをつなぐサブスク型チャットサイト
 
@@ -38,7 +39,7 @@
 
 ## December 2021
 
-### [Cloudaw](https://github.com/laptise/cloudaw)
+### [Cloudaw](https://github.com/laptise/cloudaw) 🌏
 
 ブラウザー上で複数人が音楽制作ができるクラウド版DAW
 
