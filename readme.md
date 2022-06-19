@@ -6,6 +6,14 @@
 
 🌏 Serving in public
 
+## June 2022
+
+### [csv-sql-gen](https://github.com/laptise/csv-sql-gen) 🌏
+
+CSVファイルからSQL INSERTファイルを作成してくれる`CLI`ツール。
+
+`docker-compose`から郵便局マスタデータCSVファイル初期投入するようにしたかったため作成。
+
 ## May 2022
 
 ### [Chained Style Props - Csp](https://github.com/laptise/chained-style-props) 🌏
