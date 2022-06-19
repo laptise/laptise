@@ -8,9 +8,10 @@
 
 ## May 2022
 
-### [Chained Style Props - Csp](https://github.com/laptise/chained-style-props) 🌏🚶
+### [Chained Style Props - Csp](https://github.com/laptise/chained-style-props) 🌏
 
-`React.js`での`Inline style`定義を楽にしたいライブラリ 
+`React.js`での`Inline style`定義を楽にしたいライブラリ (公開中だが実用性に疑問を抱き始めた)
+
 [Doc サイトも随時](https://github.com/laptise/csp-doc) 
 
 ## April 2022 
