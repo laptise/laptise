@@ -1,4 +1,5 @@
 現在進行中の個人プロジェクト一覧
+현재진행중인 개인 프로젝트 일람
 
 🏃 Running (active🔥)
 
@@ -6,6 +7,19 @@
 
 🌏 Serving in public
 
+## Aug 2022~
+
+### [Digging loops](http://35.79.51.6/) 🚶🚶
+
+음원샘플 거래 사이트
+
+Samples, loops, MIDI trade site for music producing.
+
+### [Devtree](http://35.79.53.171/) 🚶
+
+개발자 지식공유 플랫폼
+
+Developer's knwoledge sharing platform.
 
 ## July 2022
 
@@ -33,7 +47,7 @@ CSVファイルからSQL INSERTファイルを作成してくれる`CLI`ツー�
 
 ## April 2022 
 
-### [Kaichoku Connect](https://github.com/laptise/kaichoku-connect) 🌏🏃🏃🏃
+### [Kaichoku Connect](https://github.com/laptise/kaichoku-connect) 🌏
 
 海外中古取引仲介サイト
 
