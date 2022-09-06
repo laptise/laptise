@@ -47,7 +47,7 @@ CSVファイルからSQL INSERTファイルを作成してくれる`CLI`ツー�
 
 ## April 2022 
 
-### [Kaichoku Connect](https://github.com/laptise/kaichoku-connect) 🌏
+### [Kaichoku Connect](https://github.com/laptise/kaichoku-connect) 
 
 海外中古取引仲介サイト
 
@@ -55,7 +55,7 @@ CSVファイルからSQL INSERTファイルを作成してくれる`CLI`ツー�
 
 ## February 2022
 
-### [Airplane Web](https://github.com/laptise/airplane-web) 🌏
+### [Airplane Web](https://github.com/laptise/airplane-web) 
 
 アーテイストとファンをつなぐサブスク型チャットサイト
 
@@ -71,7 +71,7 @@ CSVファイルからSQL INSERTファイルを作成してくれる`CLI`ツー�
 
 ## December 2021
 
-### [Cloudaw](https://github.com/laptise/cloudaw) 🌏
+### [Cloudaw](https://github.com/laptise/cloudaw) 
 
 ブラウザー上で複数人が音楽制作ができるクラウド版DAW
 
