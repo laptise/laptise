@@ -9,13 +9,13 @@
 
 ## Aug 2022~
 
-### [Digging loops](http://35.79.51.6/) 🚶🚶
+### [Digging loops](http://35.79.51.6/) 🌏🚶
 
 음원샘플 거래 사이트
 
 Samples, loops, MIDI trade site for music producing.
 
-### [Devtree](http://35.79.53.171/) 🚶
+### [Devtree](http://35.79.53.171/) 🌏🚶
 
 개발자 지식공유 플랫폼
 
