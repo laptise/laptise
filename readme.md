@@ -14,11 +14,11 @@ Works for Kakekomu Inc 🇯🇵
 
 ### Favorite
 
-[![My Skills](https://skillicons.dev/icons?i=next,nest,supabase,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,nest,supabase,prisma,tailwind,terraform)](https://skillicons.dev)
 
 ### Primary skills 🕺🕺🕺
 
-[![My Skills](https://skillicons.dev/icons?i=ts,next,nest,supabase,docker,aws,postgres,mysql,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,next,nest,supabase,docker,aws,postgres,mysql,vim,terraform)](https://skillicons.dev)
 
 ### Secondary skills 🏃🏃
 
@@ -30,5 +30,5 @@ Works for Kakekomu Inc 🇯🇵
 
 ### Other stacks... 📚
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,laravel,azure,dart,figma,graphql,ai,ps,vue,ruby,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,laravel,azure,dart,figma,graphql,ai,ps,vue,ruby,rails,mui)](https://skillicons.dev)
 
