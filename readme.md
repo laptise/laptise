@@ -14,7 +14,7 @@ Works for Kakekomu Inc 🇯🇵
 
 ### Favorite
 
-[![My Skills](https://skillicons.dev/icons?i=next,nest,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,nest,supabase,prisma)](https://skillicons.dev)
 
 ### Primary skills 🕺🕺🕺
 
