@@ -14,11 +14,11 @@ Works for Kakekomu Inc 🇯🇵
 
 ### Primary skills 🕺🕺🕺
 
-[![My Skills](https://skillicons.dev/icons?i=ts,next,nest,docker,aws,mysql,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,next,nest,supabase,docker,aws,postgres,mysql,vim)](https://skillicons.dev)
 
 ### Secondary skills 🏃🏃
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,elasticsearch,redis,gcp,py,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,elasticsearch,redis,gcp,py,pytorch)](https://skillicons.dev)
 
 ### Interested in 😆
 
