@@ -12,6 +12,10 @@ Works for Kakekomu Inc 🇯🇵
 
 ******
 
+### Favorite
+
+[![My Skills](https://skillicons.dev/icons?i=next,nest,supabase)](https://skillicons.dev)
+
 ### Primary skills 🕺🕺🕺
 
 [![My Skills](https://skillicons.dev/icons?i=ts,next,nest,supabase,docker,aws,postgres,mysql,vim)](https://skillicons.dev)
@@ -22,7 +26,7 @@ Works for Kakekomu Inc 🇯🇵
 
 ### Interested in 😆
 
-[![My Skills](https://skillicons.dev/icons?i=electron,flutter,tauri,svelte,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=remix,electron,flutter,tauri,svelte,go)](https://skillicons.dev)
 
 ### Other stacks... 📚
 
