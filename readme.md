@@ -2,7 +2,7 @@
 
 Developer from Korea 🇰🇷
 
-Works for Kakekomu Inc 🇯🇵
+Works for [Neuradex](https://neuradex.ai/) 🇯🇵
 
 ### Ex 
 - Musician 🎸
