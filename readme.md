@@ -28,7 +28,7 @@ I ship with AI. My daily toolkit looks like:
 |-------|-------|
 | **Coding** | Claude Code (Max), Codex, Cursor |
 | **AI Infra** | LangFuse, OpenRouter, Fireworks AI |
-| **Core Stack** | TypeScript, Next.js, NestJS, PostgreSQL, Neo4j, Qdrant |
+| **Core Stack** | TypeScript, Next.js, NestJS, Python, FastAPI, PostgreSQL, Neo4j, Qdrant |
 | **Deploy** | AWS, GCP (Cloud Run), Vercel, Cloudflare Workers |
 | **Mail** | Docker, Terraform, GitHub Actions |
 
