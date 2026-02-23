@@ -1,34 +1,62 @@
-### Yoonsoo Kim
+# Hey, I'm Yoonsoo 👋
 
-Developer from Korea 🇰🇷
+**AI Infrastructure Engineer & Founder — Building the memory layer for AI agents.**
 
-Works for [Neuradex](https://neuradex.ai/) 🇯🇵
+I'm a Korean engineer based in Tokyo 🇯🇵 since 2006, currently building [Neuradex](https://neuradex.ai/) — a **Context as a Service (CaaS)** platform that gives AI agents persistent, structured memory.
 
-### Ex 
-- Musician 🎸
-- Producer 🎼
-- Audio Engineer 🎛️
-- Graphic Designer 🎨
+Before writing code, I wrote music. 🎸 → 💻
 
-******
+---
 
-### Favorite
+### 🧠 What I'm Building
 
-[![My Skills](https://skillicons.dev/icons?i=next,nest,supabase,prisma,tailwind,terraform)](https://skillicons.dev)
+**[Neuradex](https://neuradex.ai/)** — Memory infrastructure for AI agents
 
-### Primary skills 🕺🕺🕺
+Context Folding, Stateful Agent Orchestration, Knowledge Graphs — the pieces that make AI agents actually remember and reason across sessions. Built on a Neo4j + Qdrant + PostgreSQL hybrid architecture.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,next,nest,supabase,docker,aws,postgres,mysql,vim,terraform)](https://skillicons.dev)
+### 🔧 What I Do Day-to-Day
 
-### Secondary skills 🏃🏃
+LLM-powered contract review systems at a legal tech startup. RAG pipelines, knowledge graphs, multi-database architectures. Full stack — infra to UI.
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,elasticsearch,redis,gcp,py,pytorch)](https://skillicons.dev)
+---
 
-### Interested in 😆
+### How I Work
 
-[![My Skills](https://skillicons.dev/icons?i=remix,electron,flutter,tauri,svelte,go)](https://skillicons.dev)
+I ship with AI. My daily toolkit looks like:
 
-### Other stacks... 📚
+| Layer | Tools |
+|-------|-------|
+| **Coding** | Claude Code (Max), Codex, Cursor |
+| **AI Infra** | LangFuse, OpenRouter, Fireworks AI |
+| **Core Stack** | TypeScript, Next.js, NestJS, PostgreSQL, Neo4j, Qdrant |
+| **Deploy** | AWS, GCP (Cloud Run), Vercel, Cloudflare Workers |
+| **Mail** | Docker, Terraform, GitHub Actions |
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,laravel,azure,dart,figma,graphql,ai,ps,vue,ruby,rails,mui)](https://skillicons.dev)
+I once juggled 8 freelance projects simultaneously — that would've been impossible without AI. Now I'm building the infrastructure that makes AI itself work better.
 
+---
+
+### 🎸 Origin Story
+
+Guitarist → Bassist → Composer → Sound Engineer → Producer → ran a music production company → built a booking system for live shows → one thing led to another → now I'm here, engineering context windows instead of mixing consoles.
+
+---
+
+### 🌏 About Me
+
+🇰🇷 Korean · 🇯🇵 Tokyo since 2006 · Trilingual (KR/JP/EN)
+8+ years across the full engineering stack, from PHP to PyTorch.
+
+---
+
+### 📬 Connect
+
+[![Web](https://img.shields.io/badge/yoonsoo.kim-000000?style=flat-square&logo=safari&logoColor=white)](https://yoonsoo.kim)
+[![X](https://img.shields.io/badge/@neuradex__ysk-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/neuradex_ysk)
+[![Neuradex](https://img.shields.io/badge/neuradex.ai-4F46E5?style=flat-square)](https://neuradex.ai/)
+
+---
+
+<p align="center">
+  <i>"From mixing consoles to context windows — still engineering signals from noise."</i>
+</p>
