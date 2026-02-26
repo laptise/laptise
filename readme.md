@@ -52,7 +52,6 @@ Guitarist → Bassist → Composer → Sound Engineer → Producer → ran a mus
 ### 📬 Connect
 
 [![Web](https://img.shields.io/badge/yoonsoo.kim-000000?style=flat-square&logo=safari&logoColor=white)](https://yoonsoo.kim)
-[![X](https://img.shields.io/badge/@neuradex__ysk-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/neuradex_ysk)
 [![Neuradex](https://img.shields.io/badge/neuradex.ai-4F46E5?style=flat-square)](https://neuradex.ai/)
 
 ---
